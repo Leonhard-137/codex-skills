@@ -1,0 +1,4 @@
+interface:
+  display_name: "Renorm Overview · 概述与迭代"
+  short_description: "在约定尺度打包知识，说明核心问题和联系，再按学习需要逐步展开"
+  default_prompt: "用 $renorm-overview 为当前主题提供有来源、保持约定尺度的概述和学习方向。"

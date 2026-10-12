@@ -1,0 +1,4 @@
+interface:
+  display_name: "Study · 用户主导的学习"
+  short_description: "规划和继续资料阅读与主题学习，连接知识点、思维链及知识网络"
+  default_prompt: "用 $study 从我当前的目标、资料和笔记接续学习，按约定尺度提供方向。"

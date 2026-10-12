@@ -1,0 +1,4 @@
+interface:
+  display_name: "Feyn Review · 重述与反馈"
+  short_description: "围绕自己的理解与笔记答疑纠错，仅直接修正机械错误，保留用户表述"
+  default_prompt: "请用 $feyn-review 结合当前资料与我的笔记回答问题，指出理解错误，并只在授权范围内修正机械错误。"
